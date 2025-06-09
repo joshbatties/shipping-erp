@@ -26,4 +26,3 @@ export function Header({ title, children }: HeaderProps) {
     </div>
   )
 }
-
